@@ -40,7 +40,7 @@ public class MainActivity extends WearableActivity {
 
         // Create an ArrayAdapter using the String array and a spinner layout
         final ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-                R.array.currency_array, R.layout.spinner_item);
+                R.array.currency_array_spinner, R.layout.spinner_item);
 
         // Specify the layout to use when the list of choices appears
         adapter.setDropDownViewResource(R.layout.spinner_dropdown_item);

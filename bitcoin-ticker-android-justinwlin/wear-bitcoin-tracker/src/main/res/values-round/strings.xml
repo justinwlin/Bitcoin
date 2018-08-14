@@ -12,7 +12,7 @@
     <string name="imageview_desc">Bitcoin Logo</string>
 
 
-    <string-array name="currency_array">
+    <string-array name="currency_array_spinner">
         <item>AUD</item>
         <item>BRL</item>
         <item>CAD</item>
